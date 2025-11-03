@@ -6,5 +6,4 @@ Ubuntu is backed by a large, supportive community and gets regular updates, so i
 
 ![Ubuntu Logo](../../assets/images/issue-001/ubuntu.png)
 
-
-
+Download @ [https://ubuntu.com/]([url](https://ubuntu.com/))
