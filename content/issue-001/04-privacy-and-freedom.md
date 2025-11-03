@@ -23,4 +23,5 @@ A secure email service based in Switzerland that encrypts your messages and does
 
 ---
 
-> “Free expression and privacy are not incompatible with technology; they are what make it worth building.” -Cindy Cohn, Executive Director, Electronic Frontier Foundation
+> 💬 *“Free expression and privacy are not incompatible with technology; they are what make it worth building.”* -Cindy Cohn, Executive Director, Electronic Frontier Foundation
+
